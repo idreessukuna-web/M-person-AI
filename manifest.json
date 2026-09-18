@@ -1,0 +1,9 @@
+{
+  "name": "My AI",
+  "short_name": "My AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "icons": []
+}
